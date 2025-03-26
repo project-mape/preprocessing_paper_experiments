@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/955044874.svg)](https://doi.org/10.5281/zenodo.15090621)
+
+
 <figure>
   <img src="/other_files/repo_info.png" alt="example" width="100%"/>
 </figure> <br>
